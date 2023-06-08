@@ -1,0 +1,10 @@
+{
+  "name": "EvoluX1n",
+  "description": "Experimente a extensão EvoluX1n e transforme sua experiência na plataforma Evolua. Com o modo escuro elegante e a liberdade de pular aulas, você terá um aprendizado mais confortável e adaptado ao seu ritmo. Desfrute de recursos exclusivos e alcance novos patamares em seus estudos.",
+  "version": "1.0",
+  "manifest_version": 3,
+  "permissions": ["activeTab", "scripting"],
+  "action": {
+    "default_popup": "index.html"
+  }
+}

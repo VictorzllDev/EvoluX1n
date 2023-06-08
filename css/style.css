@@ -1,0 +1,38 @@
+body{
+	background: #1e273b;
+	width: 150px;
+}
+/* HEADER */
+body > header{
+	padding: 0 0 12px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+body > header > a > img{
+	transition: .6s
+}
+body > header > a > img:hover{
+	transform: scale(1.1)
+}
+/* MAIN */
+body > main{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	gap: 24px;
+}
+/* buttons */
+body > main > .dark-light{
+	transition: .5s;
+}
+body > main > .dark-light:hover{
+	opacity: .6;
+}
+
+body > main > .PM{
+	transition: .5s;
+}
+body > main > .PM:hover{
+	opacity: .6;
+}

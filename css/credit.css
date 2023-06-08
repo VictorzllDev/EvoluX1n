@@ -1,0 +1,11 @@
+body{
+	width: 150px;
+	height: 150px;
+	background: url('../img/kkk.jpg');
+	background-position: center;
+	background-size: cover;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	gap: 24px;
+}
