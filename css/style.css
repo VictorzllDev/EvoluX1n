@@ -10,6 +10,8 @@ body > header{
 	justify-content: center;
 }
 body > header > a > img{
+	height: 82px;
+	width: auto;
 	transition: .6s
 }
 body > header > a > img:hover{
